@@ -1,4 +1,7 @@
 # 概要  
 各々が共有されたExcelファイルに対して以下のようにアノテーション（ラベル付）してください．
-<img width="763" alt="08B352A2-E4D2-4981-9C52-F1857212734F" src="https://user-images.githubusercontent.com/71800351/125405197-691c8680-e3f2-11eb-9d27-37de91357921.png">
+赤丸の部分に本文に対応する数字を入力してください．
+<img width="763" alt="abst_1" src="https://user-images.githubusercontent.com/71800351/125406266-9ae21d00-e3f3-11eb-9a41-7afc4b5ce94d.png">
+
+
 
