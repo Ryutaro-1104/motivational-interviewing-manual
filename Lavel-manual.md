@@ -1,7 +1,7 @@
 # ラベル詳細
 目次:
 O:質問
-1. [Question_C(閉じられた質問)](#Question_C(閉じられた質問))
+1. [Question_C(閉じられた質問)](#Question_C)
 2. Question_O(開かれた質問)
 ラベル詳細　仕様書
 ##<カウンセラー側>
