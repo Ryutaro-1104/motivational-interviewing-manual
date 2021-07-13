@@ -19,7 +19,7 @@
 + 本文
   + ラベルを付与する対象の文章
 
-# ラベル詳細の見方
+# [ラベル詳細](https://github.com/Ryutaro-1104/motivational-interviewing-manual/blob/main/Lavel-manual.md)の見方
 
 <img width="1045" alt="スクリーンショット 2021-07-13 18 23 48" src="https://user-images.githubusercontent.com/71800351/125427758-6aa3c08e-2cf4-48fd-a655-d3ab26067e22.png">
 
