@@ -2,8 +2,8 @@
 目次:  
 + O:質問
 1. [Question_C(閉じられた質問)](#1-Question_C閉じられた質問)  
-2. [Question_O(開かれた質問)](#Question_O開かれた質問)  
-3. [Affirm(是認)](#Affirm是認)
+2. [Question_O(開かれた質問)](#2-Question_O開かれた質問)  
+3. [Affirm(是認)](#3-Affirm是認)
 
 # <カウンセラー側>  
 # O：質問  
